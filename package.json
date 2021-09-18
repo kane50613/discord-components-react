@@ -25,7 +25,8 @@
 		"build:3": "rollup -c"
 	},
 	"dependencies": {
-		"@skyra/discord-components-core": "^2.10.0"
+		"@skyra/discord-components-core": "^2.10.0",
+		"@skyra/discord-components-react": "github:Gary50613/discord-components-react"
 	},
 	"peerDependencies": {
 		"react": "16.8.x || 17.x",
